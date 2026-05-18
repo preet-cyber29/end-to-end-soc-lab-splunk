@@ -1,5 +1,7 @@
 # End-to-End SOC Lab Implementation using Splunk Enterprise
+## System Architecture Diagram
 
+![SOC Diagram](digram_soc_a_Image%20May%2018,%202026,%2012_55_....png)
 End-to-End SOC Lab Implementation using Splunk Enterprise and Universal Forwarder
 
 ## Overview
