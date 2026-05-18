@@ -6,9 +6,16 @@
 
 ---
 
-## Project Report
 
-[View Full SOC Lab PDF Report](./Preet_Splunk_SOC_Lab_Project.pdf)
+## 📄 Project Report
+
+**Preet Splunk SOC Lab Project**
+
+- **[📥 Download Full Report (496 KB)](Preet_Splunk_SOC_Lab_Project-compressed.pdf)**  
+- **[👁️ View PDF in Browser](Preet_Splunk_SOC_Lab_Project-compressed.pdf?raw=true)**
+
+---
+
 
 ## Overview
 
